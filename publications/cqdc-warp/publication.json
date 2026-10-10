@@ -1,0 +1,18 @@
+{
+  "order": 1,
+  "title": "CQDC-Warp: GPU-Accelerated Differentiable Quasi-Dynamic Simulation for Contact-Rich Manipulation",
+  "authors": [
+    { "name": "Yanchen Ding", "marker": "*", "highlight": true, "url": "index.html" },
+    { "name": "Jiayi Chen", "marker": "*", "url": "https://jychen18.github.io/" },
+    { "name": "Jianfeng Xu", "url": null },
+    { "name": "Wei Zhao", "url": "https://scholar.google.com/citations?hl=zh-CN&user=ZTpRlBcAAAAJ" },
+    { "name": "Li Yi", "url": "https://ericyi.github.io/" },
+    { "name": "He Wang", "url": "https://hughw19.github.io/" }
+  ],
+  "status": "Under review.",
+  "teaser": "teaser.png",
+  "teaser_pdf": "teaser.pdf",
+  "teaser_size": [1600, 1376],
+  "teaser_alt": "CQDC-Warp: differentiable GPU-parallel simulation for dexterous-hand and whole-body manipulation",
+  "arxiv_url": null
+}
