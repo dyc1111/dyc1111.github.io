@@ -6,7 +6,6 @@ from html import escape
 from pathlib import Path
 from urllib.parse import quote, urlsplit
 
-
 ROOT = Path(__file__).resolve().parents[1]
 START = "      <!-- PUBLICATIONS:START -->"
 END = "      <!-- PUBLICATIONS:END -->"
